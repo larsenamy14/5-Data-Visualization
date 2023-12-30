@@ -19,5 +19,5 @@ Calculate mean, median, variance, standard deviation, and standard error
 Combine data into single data frame
 
 ## Step 5: Create charts to visualize data
-Create bar chart using dataframe.plot(x, y)
+Create bar chart using dataframe.plot(kind="bar")
 
