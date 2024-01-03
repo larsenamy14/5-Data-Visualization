@@ -60,3 +60,10 @@ Use st.pearsonr to calculate the correlation coefficient between mouse weight an
 Calculate the linear regression model using (slope, intercept, rvalue, pvalue, stderr) = st.linregress
 
 Plot the regression line
+
+## Step 9: Final Analysis
+Ketapril had the largest average tumor volume to treat. 
+
+Infubinol was the only treatment with potential outliers. 
+
+As weight of the mouse in the Capomulin treatment group increased, the average tumor volume also increased.
